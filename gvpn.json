@@ -142,8 +142,8 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m1.png",
-            "bg" : "#FBBF24"
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m7.png",
+            "bg" : "#2596be"
         },{
             "active" : "false",
             "name" : "spinner",
@@ -152,18 +152,18 @@
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m3.png",
-            "bg" : "#38BDF8"
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "bg" : "#2596be"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m4.png",
-            "bg" : "#2DD4BF"
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "bg" : "#2596be"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m5.png",
-            "bg" : "#4ADE80"
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m8.png",
+            "bg" : "#2596be"
         },{
             "active" : "false",
             "name" : "wallpapers",
