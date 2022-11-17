@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 5,
+            "int_interval" : 3,
             "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "12c959ebd",
+            "iron_source_key": "176285ccd",
 
             "main_ico": "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/main.png",
             
@@ -147,17 +147,17 @@
         },{
             "active" : "false",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m2.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "true",
