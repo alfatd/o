@@ -142,27 +142,27 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m7.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "false",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m2.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m6.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m8.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#2596be"
         },{
             "active" : "false",
