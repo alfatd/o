@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 3,
+            "int_interval" : 2,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -145,7 +145,7 @@
             "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/m7.png",
             "bg" : "#2596be"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/alfatd/o/main/main/gi.png",
             "bg" : "#A3E635"
