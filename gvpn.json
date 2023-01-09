@@ -135,7 +135,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -175,7 +175,7 @@
             "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m8.png",
             "bg" : "#673AB7"
